@@ -1,0 +1,7 @@
+<mat-list>
+    <div mat-subheader>Conversation</div>
+        <mat-list-item *ngFor="let message of messageList">
+            <div mat-line > {{message.author}}: {{message.text}}</div>
+        </mat-list-item>
+</mat-list>
+  
