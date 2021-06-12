@@ -1,0 +1,6 @@
+[
+    {"id":1,"author":"person1", "message":"text1"},
+    {"id":2,"author":"person2", "message":"text3"},
+    {"id":3,"author":"person3", "message":"text3"},
+    {"id":4,"author":"person4", "message":"text4"}
+]
